@@ -1,0 +1,2 @@
+rootProject.name = "testGlide"
+include ':app'
